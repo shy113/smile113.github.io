@@ -1777,6 +1777,7 @@ input, select, textarea {
 		width: -ms-max-content;
 		width: max-content;
 		margin-bottom: 2em;
+		margin-left: 4em;
 	}
 
 		header.major > :first-child {
@@ -2764,6 +2765,9 @@ input, select, textarea {
 
 			.tiles article header {
 				position: relative;
+				/* left: 50px; */
+				/* margin-left: 50px; */
+
 				z-index: 3;
 			}
 
